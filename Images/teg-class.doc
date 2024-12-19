@@ -1,0 +1,21 @@
+Перелік тегів і їх класів
+<div> - container, row, col, card
+<header> - header, navbar, hero
+<footer> - footer, bg-dark, text-light
+<main> - main-content, content
+<h1> - <h6> - title, heading, subheading
+<p> - text, lead, subtitle
+<ul> / <ol> - list, list-group
+<li> - list-item, active
+<a> - link, btn, btn-primary, btn-secondary
+<button> - btn, btn-primary, btn-success, btn-danger
+<input> - form-control, input, input-group
+<form> - form, form-group, form-inline
+<img> - img-responsive, img-fluid, rounded, avatar
+<table> - table, table-striped, table-bordered
+<tr> - table-row, table-header
+<td> - table-cell
+<span> - badge, label
+<blockquote> - blockquote, blockquote-reverse
+<figure> - figure, figure-caption
+<article> - article, post
